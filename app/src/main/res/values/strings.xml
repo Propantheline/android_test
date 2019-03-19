@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LinearLayoutTest</string>
+    <string name="ExperimentName">This is the first Layout exp</string>
 </resources>
